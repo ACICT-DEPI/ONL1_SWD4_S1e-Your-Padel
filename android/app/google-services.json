@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510727142243",
+    "project_id": "yourpadel-ee441",
+    "storage_bucket": "yourpadel-ee441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510727142243:android:07d25e33c5c4182e1fb156",
+        "android_client_info": {
+          "package_name": "com.example.padel_app_depi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPcV_RUqLr_jwOlqud0XbeLB9AsFOQppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
